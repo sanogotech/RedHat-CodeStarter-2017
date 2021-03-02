@@ -5,6 +5,8 @@ This repository contains all the projects and dependencies needed to create the 
 ## Get Started:
 Download the Presentation at: https://goo.gl/ZOE9cF
 
+https://developers.redhat.com/blog/2017/06/06/iot-hackathon-codestarter-red-hat-summit/
+
 Use the following list to procure the needed components:
 
 | Component Name          | Quantity      | Link                                                           |
